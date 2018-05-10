@@ -2,5 +2,3 @@ User-agent: *
 Disallow: /favicon.ico
 
 Sitemap: https://ziwei996.github.io/sitemap.xml
-
-
